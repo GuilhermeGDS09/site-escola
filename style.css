@@ -122,7 +122,7 @@ section#hero{
 
 
 /* responsive deisign */
-@media(max-width: 2000px){
+@media(max-width: 3000px){
     .navbar .links,
     .navbar .action_btn{
         display: none;
@@ -136,7 +136,7 @@ section#hero{
     }
 }
 
-@media(max-width: 2000px){
+@media(max-width: 3000px){
 .dropdown_menu{
     left: 2rem;
     width: unset;
