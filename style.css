@@ -136,7 +136,7 @@ section#hero{
     }
 }
 
-@media(max-width: 576px){
+@media(max-width: 2000px){
 .dropdown_menu{
     left: 2rem;
     width: unset;
